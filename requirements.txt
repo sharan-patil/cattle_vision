@@ -3,4 +3,3 @@ streamlit_extras
 streamlit_authenticator
 pandas
 numpy
-yaml
