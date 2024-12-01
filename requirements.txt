@@ -3,5 +3,4 @@ streamlit_extras
 streamlit_authenticator
 pandas
 numpy
-random
 yaml
